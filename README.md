@@ -20,10 +20,9 @@ Whether you're just a concerned citizen, a city observer, or an enforcement admi
 
 ## 🧑‍🤝‍🧑 Who’s Using It?
 
-👤 **User** — The everyday citizen reporting violations  
+👤 **Everyone with a smartphone** — The everyday citizen reporting violations  
 👀 **Spectator** — Views reports assigned to their zone  
 🎯 **Super Spectator** — Assigns, flags, and manages reports  
-🛠️ **Admin** — Full access to reports, users, and data
 
 ---
 
@@ -64,4 +63,3 @@ MIT — Free to use, build on, and improve.
 ---
 
 Want a cleaner city? Let’s make it happen — one report at a time.  
-📬 Questions? Feedback? [Open an issue](https://github.com/your-username/parkerapp/issues) or start a discussion.
