@@ -1,5 +1,5 @@
 
-🅿️ ParkerApp
+# 🅿️ ParkerApp
 ParkerApp is a mobile application designed to help citizens quickly and easily report illegal parking — because sometimes, the best enforcers are the people on the streets.
 
 📸 Snap a photo, let the app detect the license plate with OCR, choose the type of violation (or write your own), and boom — it's reported and geo-tagged.
