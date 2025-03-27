@@ -1,6 +1,5 @@
 
-![ParkerLogo](https://github.com/user-attachments/assets/fd84488f-6ac2-4ef1-84c6-08f195c6964f)
-<img src="https://github.com/benzeltser/ParkerLogo.png/blob/main/image.png?raw=true" width="400"/>
+<img src="https://github.com/benzeltser/ParkerApp/blob/main/Parkerlogo.png?raw=true" width="300"/>
 
 # ParkerApp 🅿️
 A mobile app for reporting civil parking violations. Users can upload photos, detect license plates via OCR, and submit geo-tagged reports. Supports multiple roles: User, Spectator, Super Spectator, and Admin. Built with React Native and Express.js for a clean, role-based experience.
