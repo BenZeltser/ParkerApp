@@ -1,45 +1,46 @@
-
 # 🅿️ ParkerApp
-ParkerApp is a mobile application designed to help citizens quickly and easily report illegal parking — because sometimes, the best enforcers are the people on the streets.
+
+**ParkerApp** is a mobile application designed to help citizens quickly and easily report illegal parking — because sometimes, the best enforcers are the people on the streets.
 
 📸 Snap a photo, let the app detect the license plate with OCR, choose the type of violation (or write your own), and boom — it's reported and geo-tagged.
 
 Whether you're just a concerned citizen, a city observer, or an enforcement admin, ParkerApp has a role for you.
 
-🎯 What It Does
-Take or upload a photo of a parking violation
+---
 
-Detect the license plate automatically (and tweak it if needed)
+## 🎯 What It Does
 
-Add a few quick details (type, location, notes)
+- Take or upload a photo of a parking violation  
+- Detect the license plate automatically (and tweak it if needed)  
+- Add a few quick details (type, location, notes)  
+- Submit it with a tap — ParkerApp takes care of the rest  
+- Each report gets routed to the proper authority (and you can track it)
 
-Submit it with a tap — ParkerApp takes care of the rest
+---
 
-Each report gets routed to the proper authority (and you can track it)
+## 🧑‍🤝‍🧑 Who’s Using It?
 
-🧑‍🤝‍🧑 Who’s Using It?
-👤 User — The everyday citizen reporting violations
-👀 Spectator — Views reports assigned to their zone
-🎯 Super Spectator — Assigns, flags, and manages reports
-🛠️ Admin — Full access to reports, users, and data
+👤 **User** — The everyday citizen reporting violations  
+👀 **Spectator** — Views reports assigned to their zone  
+🎯 **Super Spectator** — Assigns, flags, and manages reports  
+🛠️ **Admin** — Full access to reports, users, and data
 
-⚙️ Built With
-🧩 React Native — For the smooth, cross-platform front end
+---
 
-🚀 Express.js — Powering the backend API
+## ⚙️ Built With
 
-🧠 OCR (Tesseract / Google Vision) — To read plates from photos
+- 🧩 **React Native** — For the smooth, cross-platform front end  
+- 🚀 **Express.js** — Powering the backend API  
+- 🧠 **OCR (Tesseract / Google Vision)** — To read plates from photos  
+- 🗺️ **Geolocation** — Auto-location or manual address input  
+- 🧱 **MongoDB / SQL** — Storage is flexible, depending on setup  
+- 🔐 **Google Sign-In** — Because nobody likes remembering passwords
 
-🗺️ Geolocation — Auto-location or manual address input
+---
 
-🧱 MongoDB / SQL — Storage is flexible, depending on setup
+## 🚀 Getting Started
 
-🔐 Google Sign-In — Because nobody likes remembering passwords
-
-🚀 Getting Started
-bash
-Copy
-Edit
+```bash
 # Clone the repo
 git clone https://github.com/your-username/parkerapp.git
 
@@ -52,7 +53,15 @@ npm run start
 
 # Run the app
 npm run android  # or ios
-📄 License
+```
+
+---
+
+## 📄 License
+
 MIT — Free to use, build on, and improve.
 
-Want a cleaner city? Let’s make it happen — one report at a time.
+---
+
+Want a cleaner city? Let’s make it happen — one report at a time.  
+📬 Questions? Feedback? [Open an issue](https://github.com/your-username/parkerapp/issues) or start a discussion.
