@@ -25,7 +25,8 @@ FROM nginx:alpine
 # Note: Ensure your build output folder is actually named 'dist'
 COPY --from=build /app/dist /usr/share/nginx/html
 
-RUN sed -i 'location / {/a \        try_files $uri $uri/ /index.html;' /etc/nginx/conf.d/default.conf
+# Copy  custom nginx config
+COPY nginx.conf /etc/nginx/conf.d/default.conf
 
 # Expose HTTP port
 EXPOSE 80
